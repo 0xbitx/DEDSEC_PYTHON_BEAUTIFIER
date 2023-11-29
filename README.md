@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"> DEDSEC_PYTHON_BEAUTIFIER </h1>
-<h4 align="center"> DEDSEC_PYTHON_BEAUTIFIER helps you to format your Python code to make it more readable and aesthetically pleasing </h4>
+<h4 align="center"> DEDSEC_PYTHON_BEAUTIFIER helps you to format your Python code to make it more readable and aesthetically pleasing. </h4>
 
 
 ## DESCRIPTION
