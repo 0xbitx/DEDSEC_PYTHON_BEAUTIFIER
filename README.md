@@ -13,7 +13,8 @@ Dedsec Python Beautifier is a powerful tool crafted to enhance the readability a
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_PYTHON_BEAUTIFIER.git
     * cd DEDSEC_PYTHON_BEAUTIFIER
-    * pip install tabulate pystyle
+    * pip install pystyle
+    * chmod +x dedsec_beautifier
     * ./dedsec_beautifier
 
 ### TESTED ON FOLLOWING:
